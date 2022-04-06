@@ -1,7 +1,7 @@
 <footer>
     <div id="copyrightAndIcons">
         <div id="copyright">
-            <span>R-One© 2022</span>
+            <span>©Guardians Studio 2022</span>
         </div>
         <div id="icons">
             <a href="http://www.youtube.fr"><i class="fa fa-youtube"></i></a>
