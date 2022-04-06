@@ -21,7 +21,7 @@
             <section class="content">
                 <p id="titleSummary">Sommaire :</p>
                 <ul>
-                    <li><a href="#game">Le Jeu</a></li>
+                    <li><a href="game.php">Le Jeu</a></li>
                     <li><a href="team.php">Télechargements</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <br> <br>
@@ -36,7 +36,7 @@
 
         <section class="l'équipe">
             <balise id="L'équipe'"><h3>L'équipe</h3></balise>
-                <p><a href="team.php">Cliquez</a> pour en apprendre plus sur le Guardians Studio
+                <p><a href="team.php">Cliquez pour en apprendre plus sur le Guardians Studio</a>
         </section>
 
         <section class="contact">

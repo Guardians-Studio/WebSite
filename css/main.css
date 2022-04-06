@@ -1,0 +1,35 @@
+/* Summary */
+
+.summary{
+    background: rgb(170, 170, 170);
+    
+}
+
+.summary .content{
+    text-align: left;
+    padding-top: 20px;
+    margin-left: 60px;
+    font-size: 2em;
+    text-decoration: underline;
+    
+}
+
+.summary .content ul li{
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-position: under;
+    padding: 5px;
+    list-style: circle;
+}
+
+.summary .content ul li a { 
+    color: white;
+
+}
+
+.summary .content ul li :hover { 
+    color: gray;
+    opacity: 70%;
+}
