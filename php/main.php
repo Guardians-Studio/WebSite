@@ -12,7 +12,10 @@
     </head>
 
     <body>
-        <?php include("header.php"); ?>
+        <head>
+            <?php include("header.php"); ?>
+            <link rel="stylesheet" href="../css/main.css">
+        </head>
 
         <section class="summary">
             <section class="content">
