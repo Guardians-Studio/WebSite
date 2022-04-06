@@ -12,11 +12,7 @@
     </head>
 
     <body>
-        <header>
-            <img src="pictures/Logo.png" alt="Guardians Studio Logo" width="300">
-            <h1>Guardians Studio</h1>
-            <h2>Le studio de jeu vidéo qui garanti votre plaisir de jeu !</h2> 
-        </header>
+        <?php include("header.php"); ?>
 
         <section id="presentation">
             <div id="textIntro">
@@ -25,19 +21,6 @@
             </div>
         </section> 
 
-        <footer>
-            <div id="copyrightAndIcons">
-                <div id="copyright">
-                    <span>R-One© 2021</span>
-                </div>
-                <div id="icons">
-                    <a href="http://www.youtube.fr"><i class="fa fa-youtube"></i></a>
-                    <a href="http://www.instagram.fr"><i class="fa fa-instagram"></i></a>
-                    <a href="http://www.twitter.fr"><i class="fa fa-twitter"></i></a>
-                    <a href="http://www.fa-facebook.fr"><i class="fa fa-facebook"></i></a>
-                </div>
-            </div>
-        </footer>
-
+        <?php include("footer.php"); ?>
     </body>
 </html>

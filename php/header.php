@@ -2,7 +2,7 @@
     <nav>
         <ul>
             <li id="logo">
-                <a href="#"><img src="../Pictures/Logo.png" alt="Guardians Studio Logo" width="30"></a>
+                <a href="main.php"><img src="../Pictures/Logo.png" alt="Guardians Studio Logo" width="30"></a>
             </li>
             <li id="tabs">
                 <a href="team.php">L'équipe</a>
