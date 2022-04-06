@@ -1,10 +1,19 @@
+#presentation
+{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
 .member 
 {
     display: flex;
     vertical-align: text-bottom;
-    width: 70%;
+    justify-content: space-evenly;
     margin: 30px;
-    padding: 20px;
+    padding: 30px;
     background-color: rgb(57, 123, 220, 0.15);
     opacity: 1;
     transform: translateY(0px);
