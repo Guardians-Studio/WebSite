@@ -5,7 +5,7 @@
         <!-- Title-->
         <title>Guardians Studio</title>
         <!-- Logo -->
-        <link rel="shortcut icon" href="pictures/logo.png">
+        <link rel="shortcut icon" href="../Pictures/Logo.png">
         <!-- links-->
         <link rel="styleSheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"> <!--Symbols-->
         <link rel="stylesheet" href="../css/style.css"> <!--Css file-->
@@ -19,8 +19,8 @@
                 <p id="titleSummary">Sommaire :</p>
                 <ul>
                     <li><a href="#game">Le Jeu</a></li>
-                    <li><a href="#L'équipe.html">Télechargements</a></li>
-                    <li><a href="#Nous contacter.html">Contact</a></li>
+                    <li><a href="team.php">Télechargements</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                     <br> <br>
                 </ul>
             </section>
@@ -33,7 +33,7 @@
 
         <section class="l'équipe">
             <balise id="L'équipe'"><h3>L'équipe</h3></balise>
-                <p><a href="team.html">Cliquez</a> pour en apprendre plus sur le Guardians Studio
+                <p><a href="team.php">Cliquez</a> pour en apprendre plus sur le Guardians Studio
         </section>
 
         <section class="contact">

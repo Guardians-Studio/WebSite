@@ -2,16 +2,16 @@
     <nav>
         <ul>
             <li id="logo">
-                <a href="#"><img src="pictures/Logo.png" alt="Guardians Studio Logo" width="30"></a>
+                <a href="#"><img src="../Pictures/Logo.png" alt="Guardians Studio Logo" width="30"></a>
             </li>
             <li id="tabs">
-                <a href="team.html">L'équipe</a>
+                <a href="team.php">L'équipe</a>
             </li>
             <li id="tabs">
-                <a href="download.html">Télechargements</a>
+                <a href="download.php">Télechargements</a>
             </li>
             <li id="tabs">
-                <a href="contact.html">Contact</a>
+                <a href="contact.php">Contact</a>
             </li>
         </ul>
     </nav>
