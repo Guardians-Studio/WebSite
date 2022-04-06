@@ -9,12 +9,36 @@
         <?php include("header.php"); ?>
 
         <section id="presentation">
-            <ul>
-                <li>Alexandre Privat</li>
-                <li>Erwann Lesech</li>
-                <li>Guillaume Jolivalt</li>
-                <li>Raphaël Heng</li>
-            </ul>
+            <h2>Membres de l'équipe</h2>
+            
+            <figure class="member reveal">
+                <img src="../img/alexandre" alt="alexandre">
+                <figcaption>
+                    Alexandre Privat : Insérer description
+                </figcaption>
+            </figure>
+
+            <figure class="member reveal">
+                <figcaption>
+                    Erwann Lesech : Insérer description
+                </figcaption>
+                <img src="../img/erwann" alt="erwann">
+            </figure>
+
+            <figure class="member reveal">
+                <img src="../img/guillaume" alt="guillaume">
+                <figcaption>
+                    Guillaume Jolivalt : Insérer description
+                </figcaption>
+            </figure>
+
+            <figure class="member reveal">
+                <figcaption>
+                    Raphaël Heng : Insérer description
+                </figcaption>
+                <img src="../img/raphael" alt="raphael">
+            </figure>
+
         </section> 
 
         <?php include("footer.php"); ?>
