@@ -42,6 +42,7 @@
         </section> 
 
         <?php include("footer.php"); ?>
+        <script src="../js/team.js"></script>
 
     </body>
 </html>
