@@ -16,7 +16,7 @@
                 <p id="titleSummary">Sommaire :</p>
                 <ul>
                     <li><a href="game.php">Le Jeu</a></li>
-                    <li><a href="team.php">Télechargements</a></li>
+                    <li><a href="download.php">Télechargements</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <br> <br>
                 </ul>
