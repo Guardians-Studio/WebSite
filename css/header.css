@@ -16,14 +16,16 @@ a
     color: black;
 }
 
-#lobbyPicture {
+#lobbyPicture 
+{
     padding-top: 150px;
     background: url(pictures/test_main.png) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 599px;
 }
 
-#illustrationLobby {
+#illustrationLobby 
+{
     height: 1px;
     width: 25%;
     margin: -3px auto;
@@ -38,7 +40,7 @@ nav
     background-color: orange;
     position: fixed;
     width: 100%;
-    opacity: 0.9;
+    opacity: 1;
 }
 
 header nav li
@@ -68,7 +70,8 @@ nav li :hover
     transition: 0.8s ease-in-out;
 }
 
-#lobbyPicture {
+#lobbyPicture 
+{
     padding-top: 100px;
     background: url(pictures/main.png) no-repeat fixed 50% 50%;
     background-size: cover;

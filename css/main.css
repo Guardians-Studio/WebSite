@@ -1,11 +1,14 @@
 /* Summary */
 
-.summary{
-    background: rgb(170, 170, 170);
-    
+.summary
+{
+    font-size: 20px;
+    background-color: orange;
+    opacity: 1;
 }
 
-.summary .content{
+.summary .content
+{
     text-align: left;
     padding-top: 20px;
     margin-left: 60px;
@@ -14,7 +17,8 @@
     
 }
 
-.summary .content ul li{
+.summary .content ul li
+{
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
@@ -24,12 +28,13 @@
     list-style: circle;
 }
 
-.summary .content ul li a { 
+.summary .content ul li a 
+{ 
     color: white;
-
 }
 
-.summary .content ul li :hover { 
+.summary .content ul li :hover 
+{ 
     color: gray;
     opacity: 70%;
 }
