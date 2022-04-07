@@ -72,10 +72,3 @@ nav li :hover
     transition: 0.8s ease-in-out;
 }
 
-#lobbyPicture 
-{
-    padding-top: 100px;
-    background: url(pictures/main.png) no-repeat fixed 50% 50%;
-    background-size: cover;
-    height: 599px;
-}
