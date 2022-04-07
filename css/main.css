@@ -5,41 +5,12 @@
     font-size: 20px;
     background-color: orange;
     opacity: 1;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 5px;
-    padding: 20px;
+    width: 100%;
 }
 
-.summary .content
+.summary > p 
 {
-    text-align: left;
-    padding-top: 20px;
-    margin-left: 60px;
-    font-size: 2em;
-    text-decoration: underline;
-    
-}
-
-.summary .content ul li
-{
-    text-transform: uppercase;
-    font-size: large;
-    font-weight: bold;
-    text-decoration: underline;
-    text-underline-position: under;
-    padding: 5px;
-    list-style: circle;
-}
-
-.summary .content ul li a 
-{ 
-    color: white;
-}
-
-.summary .content ul li :hover 
-{ 
-    color: gray;
-    opacity: 70%;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
