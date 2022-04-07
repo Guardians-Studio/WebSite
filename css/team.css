@@ -23,6 +23,9 @@
 {
     opacity: 0;
     transform: translateY(75px);
+    background-color: orange;
+    color: white;
+    font-size: 22px;
 }
 
 .revealVisible
