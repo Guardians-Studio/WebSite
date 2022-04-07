@@ -20,7 +20,11 @@
         </section> 
 
         <section id="launcher-link-section">
+            <h1>Launcher et documentation</h1>
 
+            <a href="../downloads/launcher.exe" class="download-link" download>Télécharger le jeu</a>
+
+            <a href="../downloads/manual.pdf" class="download-link" download>Télécharger le manuel</a>
         </section>
 
         <?php include("footer.php"); ?>
