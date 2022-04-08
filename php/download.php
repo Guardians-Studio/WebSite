@@ -10,7 +10,7 @@
         <section>
             <h1>Documents officiels : </h1>
 
-            <ul class="links-list" id="reports-links-section">
+            <ul class="links-lists" id="reports-links-section">
                 <li><a href="../downloads/cahier_des_charges.pdf" class="download-link" download>Cahier des charges</a></li>
 
                 <li><a href="../downloads/rapport_soutenance1.pdf" class="download-link" download>Rapport de soutenance 1</a></li>
@@ -24,7 +24,7 @@
         <section>
             <h1>Launcher et documentation : </h1>
 
-            <ul class="links-list" id="launcher-link-section">
+            <ul class="links-lists" id="launcher-link-section">
                 <li><<a href="../downloads/launcher.exe" class="download-link" download>Télécharger le jeu</a></li>
                 <li><a href="../downloads/manual.pdf" class="download-link" download>Télécharger le manuel</a></li>
             </ul>
