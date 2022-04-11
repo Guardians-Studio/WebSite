@@ -14,7 +14,7 @@ if (isset($_POST['submit']))
     $email_to_user = "no-reply@guardians-studio.com";
     $headers_back = 'From: ' . $name_to_user . ' ' . $email_to_user . ' ' . "\n\n";
     
-    $message_to_user = 'Merci ' . $name . ' pour votre message. Voici une copie' . "\n\n" . $message;
+    $message_to_user = 'Merci ' . $name . ' pour votre message. Voici une copie. Ceci est un message automatique, ne répondez pas' . "\n\n" . $message;
     $subject_to_user = "Confirmation d'envoi de mail";
     mail($from, $subject_to_user, $message_to_user, $headers_back);
 
