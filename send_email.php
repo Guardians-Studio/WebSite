@@ -7,9 +7,11 @@ if (isset($_POST['submit']))
     $name = $_POST['name'];
     $message = $name . ' ' . $from . ' a écrit ' . "\n\n" . $_POST['message'];  
 
-    $headers = 'From: ' . $name . $from . ' ' . "\n\n";
+    $headers = 'From: ' . $name . ' ' . $from . ' ' . "\n\n";
     mail($to,$subject,$message,$headers);
     echo "Message envoyé. Nous vous remercions pour votre message";
+    header("Location: contact.php");
+    exit();
 }
 
 ?>
