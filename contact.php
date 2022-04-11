@@ -15,17 +15,17 @@
             </p>
             <form method="POST" action="send_email.php">
                 <p>
-                    <label for="name">Nom :</label>
-                    <input type="text" name="name">
+                    <label for="name" >Nom :</label>
+                    <input type="text" name="name" placeholder="Votre nom/Pseudo">
                 </p>
                 <p>
                     <label for="email">Email : </label>
-                    <input type="text" name="email">
+                    <input type="text" name="email" placeholder="Votre Email">
                 </p>
                 <p>
                     <label for="message">Message :</label>
                     <br>
-                    <textarea name="message" cols="50" rows="20"></textarea>
+                    <textarea name="message" cols="50" rows="20" placeholder="Ecrire votre message"></textarea>
                     <br>
                 </p>
                 <p>
