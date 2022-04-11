@@ -48,7 +48,7 @@
         <section class="contact">
             <balise id="Nous Contacter"><h3>Nous Contacter</h3></balise>
             <p>
-                <a href="contact.php">Pour nous contacter :</a>
+                <a href="contact.php">Pour nous contacter</a>
             </p>
             
         </section>
