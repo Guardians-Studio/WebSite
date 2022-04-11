@@ -1,7 +1,7 @@
 <?php
 if (isset($_POST['submit']))
 {
-    $to = "raphael.heng@protonmail.com";
+    $to = "grhfps@gmail.com";
     $from = $_POST['email'];
     $subject = "Mail de formulaire";
     $name = $_POST['name'];
