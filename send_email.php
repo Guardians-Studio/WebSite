@@ -9,8 +9,7 @@ if (isset($_POST['submit']))
 
     $headers = 'From: ' . $name . ' ' . $from . ' ' . "\n\n";
     mail($to,$subject,$message,$headers);
-    echo "Message envoyé. Nous vous remercions pour votre message";
-    header("Location: contact.php");
+    header('Location: https://guardiansstudio.000webhostapp.com/contact.php');
     exit();
 }
 
