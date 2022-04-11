@@ -25,7 +25,7 @@
                 <p>
                     <label for="message">Message :</label>
                     <br>
-                    <textarea class="textinput" name="message" placeholder="Ecrire votre message" rows="50" cols="50"></textarea>
+                    <textarea class="textinput" name="message" placeholder="Ecrire votre message" rows="20" cols="20"></textarea>
                     <br>
                 </p>
                 <p>
