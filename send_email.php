@@ -5,7 +5,7 @@ if (isset($_POST['submit']))
     $from = $_POST['email'];
     $subject = "Mail de formulaire";
     $name = $_POST['name'];
-    $message = $name . ' ' . $from . 'a écrit ' . "\n\n" . $_POST['message'];  
+    $message = $name . ' ' . $from . ' a écrit ' . "\n\n" . $_POST['message'];  
 
     $headers = 'From: ' . $name . $from . ' ' . "\n\n";
     mail($to,$subject,$message,$headers);

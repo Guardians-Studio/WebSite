@@ -2,13 +2,13 @@
 <html lang="fr">
     <head>
         <?php include("head.php"); ?>
-        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="css/main.css">
     </head>
 
     <body>
         <head>
             <?php include("header.php"); ?>
-            <link rel="stylesheet" href="../css/main.css">
+            <link rel="stylesheet" href="css/main.css">
         </head>
 
         <section class="summary">
