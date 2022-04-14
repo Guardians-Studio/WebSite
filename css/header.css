@@ -68,7 +68,8 @@ header nav li a
 
 nav li :hover
 {
-    transform: scale(1.05);
-    transition: 0.8s ease-in-out;
+    color: white;
+    text-decoration: underline;
+    transition: 0.1s;
 }
 
