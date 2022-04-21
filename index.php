@@ -37,7 +37,8 @@
 
         <section class="game">
             <balise id="game"><h3>Le jeu</h3></balise>
-                <p>Voici quelques aperçus de notre jeu
+                <p>Voici quelques aperçus de notre jeu : </p>
+                
         </section>
 
         <section class="l'équipe">
