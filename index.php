@@ -35,10 +35,20 @@
             <p>Nous vous invitons à naviguer sur les différentes pages du site pour avoir plus de détails.</p>
         </section>
 
+        <section class="chronologie">
+            <h3>Chronologie du projet</h3>
+            <p>
+                <b>De janvier 2022 à mars 2022</b> : Implémentation des mécaniques des joueurs, des premières interfaces, du multijoueur, de Hazeltown, la première zone de jeu et des premiers ennemis.
+            </p>
+        
+            <p>
+                <b>De mars 2022 à avril 2022</b> : Implémentation des quêtes, des nouveaux ennemis. Ajout de Langdale, la deuxième zone de jeu et Turon, la troisième zone de jeu. Amélioration des interfaces et création de cinématiques.
+            </p>
+        </section>
+
         <section class="game">
             <balise id="game"><h3>Le jeu</h3></balise>
                 <p>Voici quelques aperçus de notre jeu : </p>
-                
         </section>
 
         <section class="l'équipe">
