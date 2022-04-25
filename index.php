@@ -51,16 +51,16 @@
             <p>
                 Voici quelques aperçus de notre jeu : 
                 <ul>
-                    <li class="slide">
+                    <li>
                         <img class="game-img" id="game-img1" src="Pictures/langdale_face.webp" alt="Langdale de Face" />
                     </li>
-                    <li class="slide">
+                    <li>
                         <img class="game-img" id="game-img2" src="Pictures/foret_orange.webp" alt="Forêt Orange de Langdale" />
                     </li>
-                    <li class="slide">
+                    <li>
                         <img class="game-img" id="game-img3" src="Pictures/turon_exterieur.webp" alt="Extérieur de Turon" />
                     </li>
-                    <li class="slide">
+                    <li>
                         <img class="game-img" id="game-img4" src="Pictures/turon_interieur.webp" alt="Intérieur de Turon" />
                     </li>
                 </ul>

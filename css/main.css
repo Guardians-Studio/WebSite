@@ -14,7 +14,9 @@
 {
     width: 50%;
     height: 600px;
+    box-shadow: black 0px 1px 30px;
 }
+
 
 .index-footer
 {
