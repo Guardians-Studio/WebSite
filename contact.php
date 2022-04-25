@@ -2,7 +2,7 @@
 <html lang="fr">
     <head>
         <?php include("head.php"); ?>
-        <link rel="stylesheet" href="css/contact.css">
+        <link rel="stylesheet" href="css/contact.css" />
     </head>
 
     <body>
@@ -16,11 +16,11 @@
             <form method="POST" action="send_email.php">
                 <p>
                     <label for="name" >Nom :</label>
-                    <input type="text" name="name" placeholder="Votre nom/Pseudo" >
+                    <input type="text" name="name" placeholder="Votre nom/Pseudo" />
                 </p>
                 <p>
                     <label for="email">Email : </label>
-                    <input type="text" name="email" placeholder="Votre Email">
+                    <input type="text" name="email" placeholder="Votre Email" />
                 </p>
                 <p>
                     <label for="message">Message :</label>
@@ -29,7 +29,7 @@
                     <br>
                 </p>
                 <p>
-                    <input type="submit" name="submit" value="Envoyer le message">
+                    <input type="submit" name="submit" value="Envoyer le message" />
                 </p>
             </form>
         </section>

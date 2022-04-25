@@ -2,13 +2,13 @@
 <html lang="fr">
     <head>
         <?php include("head.php"); ?>
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/main.css" />
     </head>
 
     <body>
         <head>
             <?php include("header.php"); ?>
-            <link rel="stylesheet" href="css/main.css">
+            <link rel="stylesheet" href="css/main.css" />
         </head>
 
         <section class="summary">
@@ -18,8 +18,8 @@
             </p>
 
             <p>
-                Tout a commencé pendant nos révisions de partiels de mi-semestre 1. <br>
-                Après avoir travaillé ensemble, nous avons remarqué que nous nous entendions bien et que nous étions efficaces dans les révisions. <br>
+                Tout a commencé pendant nos révisions de partiels de mi-semestre 1. <br />
+                Après avoir travaillé ensemble, nous avons remarqué que nous nous entendions bien et que nous étions efficaces dans les révisions. <br />
                 C'est donc ainsi que les prémices du Guardians Studio ont vu le jour.
             </p>
 
@@ -48,7 +48,26 @@
 
         <section class="game">
             <balise id="game"><h3>Le jeu</h3></balise>
-                <p>Voici quelques aperçus de notre jeu : </p>
+            <p>
+                Voici quelques aperçus de notre jeu : 
+                <figure>
+                    <img src="" alt="" />
+                </figure>
+
+                <figure>
+                    <img src="" alt="" />
+                </figure>
+
+                <figure>
+                    <img src="" alt="" />
+                </figure>
+
+                <figure>
+                    <img src="" alt="" />
+                </figure>
+            </p>
+
+
         </section>
 
         <section class="l'équipe">
