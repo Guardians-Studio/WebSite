@@ -20,7 +20,7 @@ a
 #lobbyPicture
 {
     padding-top: 150px;
-    background: url('../Pictures/main.png') no-repeat fixed 50% 50%;
+    background: url('../Pictures/main_background_header.webp') no-repeat fixed 50% 50%;
     background-size: cover;
     height: 599px;
 }
@@ -30,7 +30,7 @@ a
     height: 1px;
     width: 25%;
     margin: -3px auto;
-    background-color: #0a4723;
+    background-color: #157a3f;
     
 }
 
@@ -38,7 +38,7 @@ a
 nav
 {
     overflow: hidden;
-    background-color: #0a4723;
+    background-color: #157a3f;
     position: fixed;
     width: 100%;
     opacity: 1;
