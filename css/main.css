@@ -3,14 +3,10 @@
 .summary
 {
     font-size: 20px;
-    background-color: orange;
+    background-color: #071524;
     opacity: 1;
-    width: 100%;
-}
-
-.summary > p 
-{
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
 }
+

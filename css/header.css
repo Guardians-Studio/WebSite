@@ -14,7 +14,7 @@ li
 a
 {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 #lobbyPicture
@@ -30,7 +30,7 @@ a
     height: 1px;
     width: 25%;
     margin: -3px auto;
-    background-color: orange;
+    background-color: #0a4723;
     
 }
 
@@ -38,7 +38,7 @@ a
 nav
 {
     overflow: hidden;
-    background-color: orange;
+    background-color: #0a4723;
     position: fixed;
     width: 100%;
     opacity: 1;
