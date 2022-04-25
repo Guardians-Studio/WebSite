@@ -51,7 +51,7 @@
             <p>
                 Voici quelques aperçus de notre jeu : 
                 <ul>
-                    <li class="slide" data-active>
+                    <li class="slide">
                         <img class="game-img" id="game-img1" src="Pictures/langdale_face.webp" alt="Langdale de Face" />
                     </li>
                     <li class="slide">
