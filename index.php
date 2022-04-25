@@ -67,20 +67,22 @@
             </p>
         </section>
 
-        <section class="l'équipe">
-            <balise id="L'équipe'"><h3>L'équipe</h3></balise>
-                <p><a href="team.php">Cliquez pour en apprendre plus sur le Guardians Studio</a>
-        </section>
-
-        <section class="contact">
-            <balise id="Nous Contacter"><h3>Nous Contacter</h3></balise>
-            <p>
-                <a href="contact.php">Pour nous contacter</a>
-            </p>
+        <div class="index-footer">
+            <section class="l'équipe">
+                <balise id="L'équipe'"><h3>L'équipe</h3></balise>
+                    <p><a href="team.php">Cliquez pour en apprendre plus sur le Guardians Studio</a>
+            </section>
+    
+            <section class="contact">
+                <balise id="Nous Contacter"><h3>Nous Contacter</h3></balise>
+                <p>
+                    <a href="contact.php">Pour nous contacter</a>
+                </p>
+                
+            </section>
             
-        </section>
-        
-        <?php include("footer.php"); ?>
+            <?php include("footer.php"); ?>
+        </div>
 
     </body>
 </html>
