@@ -1,7 +1,7 @@
-.textinput
+textarea
 {
     width: 60%;
     height: 30%;
-    resize: none;
     outline: none;
 }
+

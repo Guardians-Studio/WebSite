@@ -16,7 +16,7 @@
             <form method="POST" action="send_email.php">
                 <p>
                     <label for="name" >Nom :</label>
-                    <input type="text" name="name" placeholder="Votre nom/Pseudo">
+                    <input type="text" name="name" placeholder="Votre nom/Pseudo" >
                 </p>
                 <p>
                     <label for="email">Email : </label>
@@ -25,7 +25,7 @@
                 <p>
                     <label for="message">Message :</label>
                     <br>
-                    <textarea class="textinput" name="message" placeholder="Ecrire votre message" rows="20" cols="20"></textarea>
+                    <textarea name="message" placeholder="Ecrire votre message" rows="20" cols="20"></textarea>
                     <br>
                 </p>
                 <p>
