@@ -25,7 +25,7 @@
         <section>
             <h1>Launcher et documentation : </h1>
             <ul class="links-lists" id="launcher-link-section">
-                <li><a href="downloads/launcher.exe" class="download-link" download>Télécharger le jeu</a></li>
+                <li><a href="https://drive.google.com/file/d/1I7tBoneRgKBEO86Wfi0IwEJXXXgVW9aj/view?usp=sharing" class="download-link" download>Télécharger le jeu</a></li>
                 <!--
                 <li><a href="downloads/manual.pdf" class="download-link" download>Télécharger le manuel</a></li>
                 -->
