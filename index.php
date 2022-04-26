@@ -67,26 +67,8 @@
             </p>
         </section>
 
-        <div class="index-footer">
-            <section class="contact">
-                <balise id="Nous Contacter"><h3>Nous Contacter</h3></balise>
-                <p>
-                    <a href="contact.php">Pour nous contacter</a>
-                </p>
-            </section>
-
-            <section class="l'équipe">
-                <balise id="L'équipe'"><h3>L'équipe</h3></balise>
-                    <p><a href="team.php">Cliquez pour en apprendre plus sur le Guardians Studio</a>
-            </section>
-
-            <section class="downloads">
-                <h3>Téléchargements</h3>
-                <p><a href="download.php">Cliquez pour accéder aux téléchargements</a></p>
-            </section>
-
-            <?php include("footer.php"); ?>
-        </div>
+        
+        <?php include("footer.php"); ?>
 
     </body>
 </html>

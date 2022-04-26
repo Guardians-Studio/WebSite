@@ -12,7 +12,7 @@ section
 {
     width: 300px;
     margin: 30px;
-    background-color: #07240f;
+    background-color: #157a3f;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -26,8 +26,8 @@ section
 
 .download-link:hover
 {
-    background-color: #127039;
-    transition: 0.3s;
+    background-color: #0b3a1f;
+    transition: 0.2s;
 }
 
 .links-lists
@@ -44,7 +44,7 @@ section
     {   
         width: 100px;
         margin: 30px;
-        background-color: #127039;
+        background-color: #157a3f;
         border: none;
         color: white;
         padding: 15px 32px;

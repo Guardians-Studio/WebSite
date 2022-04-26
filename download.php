@@ -22,18 +22,15 @@
             </ul>
         </section> 
 
-        <!-- 
         <section>
             <h1>Launcher et documentation : </h1>
-
             <ul class="links-lists" id="launcher-link-section">
-                <li><<a href="downloads/launcher.exe" class="download-link" download>Télécharger le jeu</a></li>
+                <li><a href="downloads/launcher.exe" class="download-link" download>Télécharger le jeu</a></li>
+                <!--
                 <li><a href="downloads/manual.pdf" class="download-link" download>Télécharger le manuel</a></li>
+                -->
             </ul>
-            
         </section>
-         -->
-
         <?php include("footer.php"); ?>
 
     </body>
