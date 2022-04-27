@@ -25,7 +25,7 @@
         <section>
             <h1>Installateur et manuel : </h1>
             <ul class="links-lists" id="launcher-link-section">
-                <li><a href="https://drive.google.com/file/d/1I7tBoneRgKBEO86Wfi0IwEJXXXgVW9aj/view?usp=sharing" class="download-link">Télécharger le jeu</a></li>
+                <li><a href="https://drive.google.com/file/d/1Bb2MYWbWFV6XORldxawGjb0ozt7ZwqXC/view?usp=sharing" class="download-link">Télécharger le jeu</a></li>
                 <p>
                     Manuel en cours de rédaction.
                 </p>
