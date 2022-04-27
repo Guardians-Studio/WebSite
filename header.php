@@ -20,6 +20,6 @@
     <div id = "lobbyPicture">
         <h1>Guardians Studio</h1>
         <div id = "illustrationLobby"></div>
-        <h3> Le studio de jeu vidéo qui garantit votre plaisir de jouer !</h3>
+        <h3>Devenez le gardien intemporel !</h3>
     </div>
 </header>
