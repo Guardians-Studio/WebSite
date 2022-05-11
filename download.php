@@ -31,7 +31,7 @@
                 <p>
                     Manuel d'utilisation en cours de rédaction
                 </p>
-                <!-- <li><a href="downloads/use_manual.pdf" class="download-link" download>Télécharger le manuel d'utilisation</a></li> -->
+                <li><a href="downloads/use_manual.pdf" class="download-link" download>Télécharger le manuel d'utilisation</a></li>
             </ul>
         </section>
         <?php include("footer.php"); ?>
