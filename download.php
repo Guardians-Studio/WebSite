@@ -18,7 +18,7 @@
 
                 <li><a href="downloads/rapport_soutenance2.pdf" class="download-link" download>Rapport de soutenance 2</a></li>
                 <!-- 
-                <li><a href="downloads/rapport_projet.pdf" class="download-link" target="_blank">Rapport de projet</a></li>
+                <li><a href="downloads/rapport_projet.pdf" class="download-link" download>Rapport de projet</a></li>
                  -->
             </ul>
         </section> 
