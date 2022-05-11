@@ -28,9 +28,6 @@
             <ul class="links-lists" id="launcher-link-section">
                 <li><a href="https://drive.google.com/uc?export=download&id=1qmoIDrFgYGA0LQYhrMdKv7M5m0gKVgqM" class="download-link">Télécharger le jeu</a></li>
                 <li><a href="downloads/installation_manual.pdf" class="download-link" download>Télécharger le manuel d'installation</a></li>
-                <p>
-                    Manuel d'utilisation en cours de rédaction
-                </p>
                 <li><a href="downloads/use_manual.pdf" class="download-link" download>Télécharger le manuel d'utilisation</a></li>
             </ul>
         </section>
