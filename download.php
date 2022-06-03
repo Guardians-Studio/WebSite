@@ -26,7 +26,8 @@
         <section>
             <h1 class="installation-title">Installateur et manuels : </h1>
             <ul class="links-lists" id="launcher-link-section">
-                <li><a href="downloads/Era_Of_Guardians_TV_Launcher.zip" class="download-link" download>Télécharger le jeu</a></li>
+                <li><a href="downloads/Era_Of_Guardians_TV_Launcher.zip" class="download-link" download>Télécharger le jeu (Launcher Portable)</a></li>
+                <li><a href="#" class="download-link">Télécharger le jeu (Setup)</a></li>
                 <li><a href="downloads/installation_manual.pdf" class="download-link" download>Télécharger le manuel d'installation</a></li>
                 <li><a href="downloads/use_manual.pdf" class="download-link" download>Télécharger le manuel d'utilisation</a></li>
             </ul>
