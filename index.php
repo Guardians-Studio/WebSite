@@ -8,7 +8,9 @@
     <body>
         <?php include("header.php"); ?>
 
-        <iframe src="https://www.youtube.com/watch?v=EzLw7d06Axs" width="960" height="540" frameborder="0"></iframe>
+        <p>
+            <iframe src="https://www.youtube.com/watch?v=EzLw7d06Axs" width="960" height="540" frameborder="0"></iframe>
+        </p>
 
         <section class="summary">
             <h2>Présentation brève du Guardians Studio : </h2>
