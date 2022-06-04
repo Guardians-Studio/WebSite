@@ -6,10 +6,9 @@
     </head>
 
     <body>
-        <head>
-            <?php include("header.php"); ?>
-            <link rel="stylesheet" href="css/main.css" />
-        </head>
+        <?php include("header.php"); ?>
+
+        <iframe src="https://www.youtube.com/watch?v=EzLw7d06Axs" width="960" height="540" frameborder="0"></iframe>
 
         <section class="summary">
             <h2>Présentation brève du Guardians Studio : </h2>
@@ -43,6 +42,9 @@
         
             <p>
                 <b>De mars 2022 à avril 2022</b> : Implémentation des quêtes, des nouveaux ennemis. Ajout de Langdale, la deuxième zone de jeu et Turon, la troisième zone de jeu. Amélioration des interfaces et création de cinématiques.
+            </p>
+            <p>
+                <b>D'avril 2022 à juin 2022</b> : Ajout des deux derniers terrains : Okéanos, l'océan infini et Celtia, les falaises célestes d'Astria. Ajout du boss final et d'un chat in-game. Ajout des dernières quêtes et animations du jeu.
             </p>
         </section>
 
