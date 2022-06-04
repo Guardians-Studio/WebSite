@@ -9,7 +9,7 @@
         <?php include("header.php"); ?>
 
         <p>
-            <iframe src="https://www.youtube.com/watch?v=EzLw7d06Axs" width="960" height="540" frameborder="0"></iframe>
+            <iframe src="https://www.youtube.com/embed/EzLw7d06Axs" width="960" height="540" frameborder="0"></iframe>
         </p>
 
         <section class="summary">
