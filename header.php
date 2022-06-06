@@ -6,15 +6,18 @@
                     <img src="Pictures/Logo.png" alt="Guardians Studio Logo" width="30" />
                 </a>
             </li>
-            <li id="tabs">
-                <a href="team.php">L'équipe</a>
-            </li>
-            <li id="tabs">
-                <a href="download.php">Télechargements</a>
-            </li>
-            <li id="tabs">
-                <a href="contact.php">Contact</a>
-            </li>
+
+            <ul>
+                <li id="tabs">
+                    <a href="contact.php">Contact</a>
+                </li>
+                <li id="tabs">
+                    <a href="download.php">Télechargements</a>
+                </li>
+                <li id="tabs">
+                    <a href="team.php">L'équipe</a>
+                </li>
+            </ul>
         </ul>
     </nav>
     <div id = "lobbyPicture">
