@@ -67,6 +67,12 @@
                     <li>
                         <img class="game-img" id="game-img4" src="Pictures/turon_interieur.webp" alt="Intérieur de Turon" />
                     </li>
+                    <li>
+                        <img class="game-img" id="game-img5" src="Pictures/celtia.webp" alt="Aperçu de Celtia" />
+                    </li>
+                    <li>
+                        <img class="game-img" id="game-img6" src="Pictures/okeanos.webp" alt="Aperçu de Okeanos" />
+                    </li>
                 </ul>
             </p>
         </section>
