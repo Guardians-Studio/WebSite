@@ -2,7 +2,12 @@ a
 {
     color: white;
 }
-a:hover
+#sources a:hover
+{
+    color: #157a3f;
+    transition: 0.3s;
+}
+#unity-lib a:hover
 {
     color: #157a3f;
     transition: 0.3s;
