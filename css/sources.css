@@ -1,0 +1,13 @@
+a
+{
+    color: white;
+}
+a:hover
+{
+    color: #157a3f;
+    transition: 0.3s;
+}
+.sources-sublist
+{
+    list-style-type: disc;
+}

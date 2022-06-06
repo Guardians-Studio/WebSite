@@ -1,19 +1,24 @@
 <footer class="index-footer">
-            <section class="contact">
-                <balise id="Nous Contacter"><h3>Nous Contacter</h3></balise>
-                <p>
-                    <a href="contact.php">Pour nous contacter</a>
-                </p>
-            </section>
-
             <section class="l'équipe">
-                <balise id="L'équipe'"><h3>L'équipe</h3></balise>
-                    <p><a href="team.php">Cliquez pour en apprendre plus sur le Guardians Studio</a>
+                <h3>L'équipe</h3>
+                <p><a href="team.php">Cliquez pour en apprendre plus sur le Guardians Studio</a>
             </section>
-
+            
             <section class="downloads">
                 <h3>Téléchargements</h3>
                 <p><a href="download.php">Cliquez pour accéder aux téléchargements</a></p>
+            </section>
+
+            <section class="sources">
+                <h3>Les sources du projet</h3>
+                <p><a href="sources.php">Cliquez pour accéder aux sources du projet</a></p>
+            </section>
+
+            <section class="contact">
+                <h3>Nous Contacter</h3>
+                <p>
+                    <a href="contact.php">Pour nous contacter</a>
+                </p>
             </section>
 
             <div id="copyrightAndIcons">

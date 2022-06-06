@@ -12,6 +12,9 @@
                     <a href="contact.php">Contact</a>
                 </li>
                 <li id="tabs">
+                    <a href="sources.php">Sources</a>
+                </li>
+                <li id="tabs">
                     <a href="download.php">Télechargements</a>
                 </li>
                 <li id="tabs">
